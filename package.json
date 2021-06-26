@@ -1,13 +1,21 @@
 {
-  "name": "poem",
+  "name": "song-recommendation",
   "version": "1.0.0",
-  "main": "script.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docilefiasco/Random-Poem-Generator.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/docilefiasco/Random-Poem-Generator/issues"
+  },
+  "homepage": "https://github.com/docilefiasco/Random-Poem-Generator#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.6.0",
